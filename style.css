@@ -1,0 +1,11 @@
+* {
+    transition: 0.3s;
+}
+
+body {
+    margin: 0;
+}
+
+.flex {
+    display: flex;
+}
